@@ -8,5 +8,6 @@
 <body>
     <h1>pagina de Estadistica</h1>
     </h2> yo no la tengo </h2>
+</h2> guardada en el git </h2>        
 </body>
 </html>
